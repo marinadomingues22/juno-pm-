@@ -4,8 +4,7 @@
 
 ## Prototype link
 
-_The public Lovable share URL._
-
+https://ai-pm-synthesizer.lovable.app
 _____
 
 ## What it demonstrates
